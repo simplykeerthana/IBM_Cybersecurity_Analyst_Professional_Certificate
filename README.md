@@ -23,3 +23,4 @@ Course Certificates Completed
 7. Cybersecurity Compliance Framework & System Administration
 8. Network Security & Database Vulnerabilities
 
+Skills I gained: Computer Security Incident Management, Professional certificate, cybersecurity analyst, Breaches, Cyber Attaks, Cybersecurity, Data Protection, Digital Forensics, Exposed Data, IBM New Collar, IBM Security, Incident Response, Network Defense Tactics, Penetration Testing, Phishing, Ransomware, Scripting, Security Analyst, SIEM, Threat Intelligence, Threat Management, Vulnerability Scanning. 
